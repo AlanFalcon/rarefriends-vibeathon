@@ -60,7 +60,7 @@ registered words.
 
 - [x] Demo playtested end-to-end: sacrifice → draw → forge.
 - [x] Simulated purchases and rewards clearly labeled in the UI.
-- [ ] Dictionary list finalized (~10,000 curated words).
+- [x] Dictionary list finalized (~10,000 curated words).
 - Open: randomness source on Robinhood Chain (Chainlink VRF on 4663 vs
   commit-reveal) — simulated in the MVP, documented as future work.
 - Open: fate of accrued credits in sacrificed Gen 5s' token-bound accounts.
