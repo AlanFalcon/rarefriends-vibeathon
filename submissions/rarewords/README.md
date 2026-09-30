@@ -58,8 +58,8 @@ registered words.
 
 ## Checks and known issues
 
-- [ ] Demo playtested end-to-end: sacrifice → draw → forge.
-- [ ] Simulated purchases and rewards clearly labeled in the UI.
+- [x] Demo playtested end-to-end: sacrifice → draw → forge.
+- [x] Simulated purchases and rewards clearly labeled in the UI.
 - [ ] Dictionary list finalized (~10,000 curated words).
 - Open: randomness source on Robinhood Chain (Chainlink VRF on 4663 vs
   commit-reveal) — simulated in the MVP, documented as future work.
